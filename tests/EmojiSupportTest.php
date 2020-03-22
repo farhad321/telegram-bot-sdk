@@ -7,7 +7,7 @@ use Telegram\Bot\Helpers\Emojify;
 
 class EmojiSupportTest extends \PHPUnit_Framework_TestCase
 {
-
+//zzz
     /**
      * @test
      * @expectedException \Telegram\Bot\Exceptions\TelegramEmojiMapFileNotFoundException
