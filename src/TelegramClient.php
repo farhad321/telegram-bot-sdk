@@ -16,7 +16,7 @@ class TelegramClient
     /**
      * @const string Telegram Bot API URL.
      */
-    const BASE_BOT_URL = 'https://api.telegram.org/bot';
+    const BASE_BOT_URL = 'https://tapi.bale.ai/bot';
 
     /**
      * @const int The timeout in seconds for a request that contains file uploads.
